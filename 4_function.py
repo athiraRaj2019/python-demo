@@ -2,9 +2,9 @@ calculation_to_units = 24
 nameOfUnit = "hours"
 
 
-# define/create  a function 
-# define function parameter. you can define multiple parameters of different data type: 
-# int-'num_of_days' and str-'custom_message' 
+# define/create  a function
+# define function parameter. you can define multiple parameters of different data type:
+# int-'num_of_days' and str-'custom_message'
 def day_to_units(num_of_days, custom_message):
     print(f"{num_of_days} days are {num_of_days * calculation_to_units} {nameOfUnit})")
     print(custom_message)
