@@ -1,4 +1,5 @@
 #Arithmatic operations
+#+, - , * , / , % (modulus) , ** (exponential), // (floor division) are arithmatic operations in python
 #How many minutes are there in 20 days?
 #20 *24 *60
 
