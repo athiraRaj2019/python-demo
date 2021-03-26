@@ -2,7 +2,8 @@
 
 IDE : pycharm
 
-comments:explanations to code can be written with '#' before them.To comment multiple lines of code add ''' before and after. example
+comments:explanations to code can be written with '#' before them
+.To comment multiple lines of code add ''' before and after. example
 '''x=[1 ,2,3]
 y=[4, 5, 6]
 print(x)'''
