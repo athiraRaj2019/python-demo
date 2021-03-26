@@ -10,3 +10,7 @@ for i in my_list:
 my_list.append("April")
 print(my_list)
 
+#to remove an element
+my_list.remove("march")
+print(my_list)
+
