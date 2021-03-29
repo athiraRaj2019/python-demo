@@ -1,0 +1,27 @@
+Built in Vs Third Party
+
+- python comes with only a set of built in modules
+- Many more modules out there, which NOT part of the Python installations
+- built-in Modules and Packages are the most common ones
+- you need to install these third party packages, 
+  depending on what application(eg: web application, machine learning) you write
+- you can download third party python packages from python repository(storage) called 
+  PyPI--> The Python Package Index
+	-it's a repository for 3rd party Python Packages
+	-people can publish their packages to repository and make it available for everyone to use
+	-it's a large community
+###################################################################################
+
+MODULE VS PACKAGE
+
+module --> any python file is a module
+package --> collection of python modules,
+	    package must include an __init__.py file
+	    This __init__.py file distinguishes a package from a directory
+
+########################################################################################
+pip
+
+-In Python we use a package manager tool called pip 
+ to install packages from PyPI to our local/server 
+-command used to install is "pip install <package name>"
