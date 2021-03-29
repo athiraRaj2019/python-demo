@@ -18,6 +18,7 @@ module --> any python file is a module
 package --> collection of python modules,
 	    package must include an __init__.py file
 	    This __init__.py file distinguishes a package from a directory
+library --> collection of packages
 
 ########################################################################################
 pip
